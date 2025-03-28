@@ -1,0 +1,6 @@
+{
+    "spotifyKey" : {
+        "CLIENT_ID": "enter your spotify client id",
+        "CLIENT_SECRET": "enter your spotify client secret"
+    }
+}
